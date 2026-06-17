@@ -1,0 +1,26 @@
+# ===== Unreal Engine — cartelle generate (MAI committare) =====
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Artefatti dei plugin
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# ===== IDE / editor =====
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# ===== Sistema operativo =====
+.DS_Store
+Thumbs.db
